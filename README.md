@@ -22,6 +22,13 @@ In this toolkit, you can run different models, e.g., LLaVA and InternVL. For the
 | CogAgent | https://github.com/THUDM/CogVLM |
 | SPHINX | https://github.com/Alpha-VLLM/LLaMA2-Accessory |
 
+### Get likelihood of different models
+
+```sh
+cd LiCo
+bash run_inference.sh
+```
+
 ## Composition Methods
 
 Here lists the composition methods supported by this toolkit.
