@@ -12,10 +12,15 @@ In this toolkit, you can run different models, e.g., LLaVA and InternVL. For the
 
 ### Prerequisites
 
-| LLaVA | Yi-VL |  |
-|-------|-------|-------|
-| LLaVA | 单元格2 | 单元格3 |
-| 单元格4 | 单元格5 | 单元格6 |
+|  | Github |
+|-------|-------|
+| LLaVA |  |
+| Yi-VL |  |
+| Qwen-VL |  |
+| Internlm-Xcomposer |  |
+| InternVL |  |
+| CogAgent |  |
+| SPHINX |  |
 
 
 ### Installation
