@@ -37,8 +37,15 @@ bash composition.sh
 
 > [!NOTE]
 > You can also download the likelihood of different models from these links.
-> 
-> |  | Github |
+
+|  | MME | MMVP |
+| LLaVA |  |  |
+| Yi-VL |  |  |
+| Qwen-VL |  |  |
+| Internlm-Xcomposer |  |  |
+| InternVL |  |  |
+| CogAgent |  |  |
+| SPHINX |  |  |
 
 ## Composition Methods
 
