@@ -32,9 +32,17 @@ Add additional notes about how to deploy this project to a live system.
 
 - List the libraries used in the project.
 
-## Versioning
+## Composition Methods
 
-We use SemVer for version control.
+Here lists the composition methods supported by this toolkit.
+
+### Ensemble
+
+### Debias
+
+### Contrast
+
+### Proxy Tuning
 
 ## Authors
 
