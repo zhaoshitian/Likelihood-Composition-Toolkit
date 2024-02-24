@@ -3,8 +3,8 @@ Toolkit for manipulating MLLM's likelihood on differnet generated contents.
 
 Features:
 
--Support LLaVA serires model, Qwen-VL, SPHINX, Yi-VL, InternVL, Internlm-Xcomposer and CogAgent.
--Support verious composition methods.
+- Support LLaVA serires model, Qwen-VL, SPHINX, Yi-VL, InternVL, Internlm-Xcomposer and CogAgent.
+- Support verious composition methods.
 
 ## Getting Started
 
