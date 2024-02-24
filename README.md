@@ -22,14 +22,6 @@ In this toolkit, you can run different models, e.g., LLaVA and InternVL. For the
 | CogAgent | https://github.com/THUDM/CogVLM |
 | SPHINX | https://github.com/Alpha-VLLM/LLaMA2-Accessory |
 
-## Deployment
-
-Add additional notes about how to deploy this project to a live system.
-
-## Built With
-
-- List the libraries used in the project.
-
 ## Composition Methods
 
 Here lists the composition methods supported by this toolkit.
