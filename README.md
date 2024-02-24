@@ -1,7 +1,8 @@
 # Likelihood-Composition-Toolkit
 Toolkit for manipulating MLLM's likelihood on differnet generated contents.
 
-features:
+Features:
+
 -Support LLaVA serires model, Qwen-VL, SPHINX, Yi-VL, InternVL, Internlm-Xcomposer and CogAgent.
 
 ## Getting Started
