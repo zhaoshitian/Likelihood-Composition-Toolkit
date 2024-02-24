@@ -35,6 +35,9 @@ bash run_inference.sh
 bash composition.sh
 ```
 
+> [!NOTE]
+> You can also download the likelihood of different models from these links.
+
 ## Composition Methods
 
 Here lists the composition methods supported by this toolkit.
