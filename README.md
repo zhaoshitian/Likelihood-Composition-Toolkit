@@ -29,12 +29,6 @@ cd LiCo
 bash run_inference.sh
 ```
 
-### Applying likelihood composition
-
-```sh
-bash composition.sh
-```
-
 > [!NOTE]
 > You can also download the likelihood of different models from these links.
 
@@ -47,6 +41,12 @@ bash composition.sh
 | InternVL |  |  |
 | CogAgent |  |  |
 | SPHINX |  |  |
+
+### Applying likelihood composition
+
+```sh
+bash composition.sh
+```
 
 ## Composition Methods
 
