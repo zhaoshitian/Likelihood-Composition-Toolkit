@@ -46,7 +46,7 @@ Here lists the composition methods supported by this toolkit.
 
 ## TODO
 
-- [] Support SPHINX series model.
+- [ ] Support SPHINX series model.
 
 ## Authors
 
