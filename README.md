@@ -17,7 +17,7 @@ In this toolkit, you can run different models, e.g., LLaVA and InternVL. For the
 | LLaVA | https://github.com/haotian-liu/LLaVA |
 | Yi-VL | https://github.com/01-ai/Yi |
 | Qwen-VL | https://github.com/QwenLM/Qwen-VL |
-| Internlm-Xcomposer |  |
+| Internlm-Xcomposer | https://github.com/InternLM/InternLM-XComposer |
 | InternVL | https://github.com/OpenGVLab/InternVL |
 | CogAgent | https://github.com/THUDM/CogVLM |
 | SPHINX | https://github.com/Alpha-VLLM/LLaMA2-Accessory |
