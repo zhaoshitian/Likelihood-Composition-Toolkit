@@ -10,7 +10,7 @@ Features:
 
 In this toolkit, you can run different models, e.g., LLaVA and InternVL. For these models, different environment is needed, and before running these models using this toolkit, you need to install the prerequisted environment. 
 
-### Prerequisites
+### Installation
 
 |  | Github |
 |-------|-------|
@@ -21,16 +21,6 @@ In this toolkit, you can run different models, e.g., LLaVA and InternVL. For the
 | InternVL | https://github.com/OpenGVLab/InternVL |
 | CogAgent | https://github.com/THUDM/CogVLM |
 | SPHINX | https://github.com/Alpha-VLLM/LLaMA2-Accessory |
-
-
-### Installation
-
-Step-by-step guide to install and run the project:
-
-1. Clone the repository:
-
-2. Install dependencies:
-
 
 ## Deployment
 
