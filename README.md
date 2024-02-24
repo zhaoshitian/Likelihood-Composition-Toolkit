@@ -44,6 +44,10 @@ Here lists the composition methods supported by this toolkit.
 
 ### Proxy Tuning
 
+## TODO
+
+- [] Support SPHINX series model.
+
 ## Authors
 
 - **Your Name** - *Initial work* - [Your GitHub Username](https://github.com/yourusername)
