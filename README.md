@@ -37,6 +37,7 @@ bash composition.sh
 
 > [!NOTE]
 > You can also download the likelihood of different models from these links.
+> 
 > |  | Github |
 
 ## Composition Methods
