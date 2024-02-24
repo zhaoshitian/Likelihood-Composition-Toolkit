@@ -8,11 +8,14 @@ Features:
 
 ## Getting Started
 
-These instructions will help you get a copy of the project and run it on your local machine.
+In this toolkit, you can run different models, e.g., LLaVA and InternVL. For these models, different environment is needed, and before running these models using this toolkit, you need to install the prerequisted environment. 
 
 ### Prerequisites
 
-What you need to install before you begin:
+| LLaVA | Yi-VL |  |
+|-------|-------|-------|
+| LLaVA | 单元格2 | 单元格3 |
+| 单元格4 | 单元格5 | 单元格6 |
 
 
 ### Installation
