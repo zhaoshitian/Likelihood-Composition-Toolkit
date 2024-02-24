@@ -14,7 +14,7 @@ In this toolkit, you can run different models, e.g., LLaVA and InternVL. For the
 
 |  | Github |
 |-------|-------|
-| LLaVA | (https://github.com/haotian-liu/LLaVA) |
+| LLaVA | https://github.com/haotian-liu/LLaVA |
 | Yi-VL |  |
 | Qwen-VL |  |
 | Internlm-Xcomposer |  |
