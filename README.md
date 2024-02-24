@@ -50,7 +50,15 @@ bash composition.sh
 
 ## Composition Methods
 
-Here lists the composition methods supported by this toolkit.
+A quick overview of the currently supported composition methods:
+
+| Method                                                                                       | `composition_method` value | MLLM |
+| -------------------------------------------------------------------------------------------- | ---------------------------| ----- |
+| Ensemble ([Model Soups](https://arxiv.org/abs/2203.05482))                                     | `linear`             | ✅          |
+| Debias                                                                                        | `slerp`              | ❌          |
+| [Contrast](https://arxiv.org/abs/2212.04089)                                          | `task_arithmetic`    | ✅          |
+| [Proxy Tuning](https://arxiv.org/abs/2306.01708)                                                     | `ties`               | ✅          |
+| [Causal-CoG](https://arxiv.org/abs/2311.03099)            | `dare_ties`          | ✅          |
 
 ### Ensemble
 
