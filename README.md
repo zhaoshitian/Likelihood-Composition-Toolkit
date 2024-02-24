@@ -39,6 +39,7 @@ bash composition.sh
 > You can also download the likelihood of different models from these links.
 
 |  | MME | MMVP |
+|-------|-------|-------|
 | LLaVA |  |  |
 | Yi-VL |  |  |
 | Qwen-VL |  |  |
