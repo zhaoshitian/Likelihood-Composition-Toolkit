@@ -29,6 +29,12 @@ cd LiCo
 bash run_inference.sh
 ```
 
+### Applying likelihood composition
+
+```sh
+bash composition.sh
+```
+
 ## Composition Methods
 
 Here lists the composition methods supported by this toolkit.
