@@ -74,6 +74,7 @@ A quick overview of the currently supported composition methods:
 
 - [ ] Support SPHINX series model.
 - [ ] Add result table.
+- [ ] Upload the likelihood file onto huggingface.
 
 ## Authors
 
