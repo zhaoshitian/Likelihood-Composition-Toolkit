@@ -55,10 +55,10 @@ A quick overview of the currently supported composition methods:
 | Method                                                                                       | `composition_method` value | MLLM | LLM |
 | -------------------------------------------------------------------------------------------- | ---------------------------| ----- | ----- |
 | Ensemble                                   | `ensemble`             | ✅          |❌          |
-| Debias                                                                                        | `debias`              | ❌          |❌          |
-| [Contrast]                                         | `contrast`    | ✅          |❌          |
-| [Proxy Tuning]                                                     | `proxy`               | ✅          |❌          |
-| [Causal-CoG]            | `causal_cog`          | ❌         |❌          |
+| Debias                                                                                        | `debias`              | ✅          |❌          |
+| Contrast                                     | `contrast`    | ✅          |❌          |
+| Proxy Tuning                                                    | `proxy`               | ✅          |❌          |
+| Causal-CoG         | `causal_cog`          | ✅          |❌          |
 
 ### Ensemble
 
